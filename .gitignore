@@ -1,0 +1,9 @@
+.superpowers/
+node_modules/
+dist/
+*.db
+*.db-journal
+.DS_Store
+.env
+data/
+.playwright-mcp/
